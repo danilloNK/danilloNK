@@ -1,5 +1,16 @@
-.🎓 Tenho 20 anos, moro em Brasília
-.📚 Atualmente estou no 1° semestre de Análise e Desenvolvimento de Sistemas na UDF
-.🚀 Gosto de aprender e enfrentar novos desafios
-.💻 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em programação
-.🏗️ Em busca de evoluir em arquitetura de sistemas e boas práticas
+👋 Olá! Bem-vindo ao meu GitHub
+
+Meu nome é Danillo sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, inovação e desenvolvimento de soluções que facilitem a vida das pessoas.
+Estou em constante evolução, sempre buscando aprender novas linguagens, ferramentas e boas práticas de programação.
+
+🚀 Sobre mim
+
+🎓 Estudante de Tecnologia da Informação / ADS
+
+💻 Interesse em desenvolvimento web, mobile e automação
+
+📚 Sempre aprendendo algo novo — programação, banco de dados ou boas práticas de software
+
+🌎 Em busca de oportunidades remotas para ganhar experiência e evoluir profissionalmente
+
+🧠 Focado em melhorar minhas habilidades e construir projetos reais
