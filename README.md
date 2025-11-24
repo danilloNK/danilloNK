@@ -1,14 +1,5 @@
-## Olá 👋
-
-<!--
-**AndreCelerino/AndreCelerino** é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
--->
-
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de software  
-- 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em programação  
-- 👯 Procuro colaborar em projetos open source e iniciativas inovadoras  
-- 🤔 Estou em busca de ajuda para evoluir em arquitetura de sistemas e boas práticas  
-- 💬 Pergunte-me sobre desenvolvimento web, backend e boas práticas de código  
-- 📫 Como entrar em contato comigo: [seu e-mail ou LinkedIn aqui]  
-- 😄 Pronomes: ele/dele  
-- ⚡ Curiosidade: adoro explorar novas ferramentas e aprender algo novo todos os dias  
+🎓 Tenho 20 anos, moro em Brasília
+📚 Atualmente estou no 1° semestre de Análise e Desenvolvimento de Sistemas na UDF
+🚀 Gosto de aprender e enfrentar novos desafios
+💻 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em programação
+🏗️ Em busca de evoluir em arquitetura de sistemas e boas práticas
